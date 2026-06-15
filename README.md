@@ -19,6 +19,7 @@ Support decision-making for risk management and lending strategies.
 
 📊 Dashboard Pages
 1️⃣ Loan Overview
+[Loan Overview](Loan-overview.png)
 
 Provides a snapshot of overall lending performance.
 
@@ -37,6 +38,7 @@ Monthly Loan Trend Analysis
 
 2️⃣ Customer Insights
 
+[Customer Insights](Customer-insights.png)
 Focuses on customer demographics and financial characteristics.
 
 Key Metrics
@@ -57,6 +59,7 @@ Evaluate employment impact on borrowing behavior.
 
 3️⃣ Risk Analysis
 
+[Risk Analysis](Risk-analysis.png)
 Provides insights into loan defaults and portfolio risk.
 
 Key Metrics
